@@ -1,4 +1,4 @@
-# RESVER — Model Group Manager
+# RESVER — Resource Version
 
 A CLI tool for managing ML model version groups in a monorepo. Acts as a **lock-file registry**: maps named group versions to specific model versions, and lets apps declare which group they depend on.
 
